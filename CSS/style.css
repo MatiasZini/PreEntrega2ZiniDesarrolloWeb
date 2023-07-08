@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header__navbar{
+    background-color: #ffffff !important;
+}
+
+.header__logo {
+    align-content: center;
+}
+
+.logo__menu{
+    border: none;
+}
+
+.logo__menu:focus{
+    box-shadow: none;
+}
+
+.logo__img {
+    width: 200px;
+}
+
+.section__title {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 0;
+}
